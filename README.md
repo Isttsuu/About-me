@@ -1,3 +1,3 @@
-#
+# Discord 
 
-print("Hello world")
+print("Isttsu#7777")
