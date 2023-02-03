@@ -1,2 +1,3 @@
-# About-me
-fr
+#
+
+print("Hello world")
